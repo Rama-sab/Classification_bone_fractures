@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/yolo_data
+train: train
+val: valid
+test: test
+
+names:
+  0: fracture
